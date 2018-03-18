@@ -1,37 +1,25 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/andriyrom/DataScienceMaterials/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### General DataScience Tools:
+1.[Top 15 Python Libraries for Data Science in 2017](https://medium.com/activewizards-machine-learning-company/top-15-python-libraries-for-data-science-in-in-2017-ab61b4f9b4a7)
+2.[15 Python Libraries for Data Science](https://www.upwork.com/hiring/data/15-python-libraries-data-science/)
+3.[5 essential Python tools for data science—now improved](https://www.infoworld.com/article/3233250/python/5-essential-python-tools-for-data-sciencenow-improved.html)
+4.[Seven Python Tools All Data Scientists Should Know How to Use](http://blog.galvanize.com/seven-python-tools-all-data-scientists-should-know-how-to-use/)
+5.[Ten handy Python libraries for (aspiring) data scientists](http://www.crayondata.com/blog/ten-handy-python-libraries-for-aspiring-data-scientists/)
+6.[A Complete Tutorial to Learn Data Science with Python from Scratch](https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/)
+7.[Data Analysis in Python](http://www.data-analysis-in-python.org/)
+8.[Лучшие онлайн курсы по Data Science](http://denreymer.com/best-data-science-onlie-cources)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Apache Spark:
+1.[Getting Started with Apache Spark. Book!](http://info.mapr.com/rs/mapr/images/Getting_Started_With_Apache_Spark.pdf)
+2.[Introduction to Apache Spark](https://mapr.com/training/on-demand/dev-360/)
+3.[Build and Monitor Apache Spark Applications](https://mapr.com/training/on-demand/dev-361/)
+4.[Create Data Pipelines Using Apache Spark](https://mapr.com/training/on-demand/dev-362/)
+5.[PySpark Tutorial](https://www.tutorialspoint.com/pyspark/index.htm)
+6.[Getting Started with Apache Spark™ SQL](https://databricks.com/self-paced-getting-started-with-apache-spark-sql)
+7.[Official Spark Docs](https://spark.apache.org/docs/latest/)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/andriyrom/DataScienceMaterials/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Data Mining:
+1.[Pattern Discovery in Data Mining](https://www.coursera.org/learn/data-patterns)
+2.[Cluster Analysis in Data Mining](https://www.coursera.org/learn/cluster-analysis)
+3.[BerkeleyX-CS100.1x-Big-Data-with-Apache-Spark](https://github.com/dipanjanS/BerkeleyX-CS100.1x-Big-Data-with-Apache-Spark)
